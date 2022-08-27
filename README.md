@@ -1,7 +1,7 @@
 <h1 align="center"> 🚗 Jogo com JavaScript - Lógica de Programação </h1>
 
 <p align="center">
-	<img src="https://i.imgur.com/YcqGsXb.gif" alt="JS-Game" title="JS Game"> </p>
+	<img src="https://i.imgur.com/FwZimh1.png?1" alt="JS-Game" title="JS Game"> </p>
 
 ## 🛠 Tecnologias e ferramentas utilizadas:
 
@@ -12,7 +12,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ## 🖥️ Demonstração
 
-- Você pode acessar o projeto clicando <a href="https://landing-page-turismo.vercel.app/">aqui</a>.
+- Você pode acessar o projeto clicando <a href="https://freeway-cow.vercel.app/">aqui</a>.
 
 ---
 
